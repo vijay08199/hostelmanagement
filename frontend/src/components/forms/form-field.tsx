@@ -1,0 +1,1 @@
+export function FormField({ label, name, type = "text" }: { label: string; name: string; type?: string }) { return <label className="block space-y-1"><span className="text-sm font-medium">{label}</span><input name={name} type={type} className="w-full rounded-lg border px-3 py-2 outline-none focus:border-accent" /></label>; }

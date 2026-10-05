@@ -1,0 +1,1 @@
+{"name":"college-hostel-backend","private":true,"scripts":{"dev":"convex dev","deploy":"convex deploy","typecheck":"tsc --noEmit"},"dependencies":{"convex":"^1.17.4"},"devDependencies":{"@types/node":"^26.6.4","typescript":"^5.7.2"}}

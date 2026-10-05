@@ -1,0 +1,1 @@
+{"compilerOptions":{"strict":true,"noEmit":true,"skipLibCheck":true,"module":"ESNext","moduleResolution":"Bundler","target":"ES2020"},"include":["convex/**/*.ts"]}
